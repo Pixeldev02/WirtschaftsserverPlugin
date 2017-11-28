@@ -1,0 +1,5 @@
+# Wirtschaftsplugin Config by ChrxssxDev #
+Messages:
+  Join: '[prefix] Der Spieler &6%player% &7hat den Server betreten'
+  Leave: '[prefix] Der Spieler &6%player% &7hat den Server verlassen'
+  Prefix: '&8[&6wServer&8] &7'

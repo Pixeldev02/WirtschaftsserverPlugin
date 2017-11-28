@@ -1,0 +1,7 @@
+name: Wirtschaftsplugin
+version: 1.0.0
+author: ChrxssxDev
+main: de.chrxssxdev.wserver.main.Main
+
+commands:
+  
